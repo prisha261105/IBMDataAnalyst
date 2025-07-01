@@ -1,7 +1,7 @@
 <H1> ABOUT THIS PROJECT </H1>
 <H3>Completed as a part of the third course, "Data Visualization using Cognos and Excel",This project is an interactive business intelligence dashboard built using IBM Cognos Analytics, providing a comprehensive overview of key performance indicators for an automotive company. </H3>
 
-<H3>What This Dashboard Covers</H3>
+<H4>What This Dashboard Covers</H4>
 <br><b>Sales & Profit Analysis:</b>
 Total profit generated, 
 Quantity sold across models, 

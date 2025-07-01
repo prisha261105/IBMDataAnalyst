@@ -20,8 +20,8 @@ The notebook includes a flexible function to plot stock prices alongside revenue
 <H4>Libraries Used</H4>
 <br>
 yfinance – to download stock data.
-</br>
 requests – to send HTTP requests.
 bs4 (BeautifulSoup) – to parse HTML and extract tables.
 pandas – for data cleaning and manipulation.
 plotly – for beautiful interactive plots.
+</br>
